@@ -10,7 +10,7 @@
     "homepage": "http://imazzine.com/idl/zz.styles",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/author/zz_styles.git"
+		"url": "https://github.com/buntarb/zz.styles.git"
 	},
 	"dependencies": {
 
