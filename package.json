@@ -1,0 +1,19 @@
+{
+	"name": "zz.styles",
+	"version": "20160820.0.0",
+	"description": "SCSS styles for IDL.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.styles",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/author/zz_styles.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
